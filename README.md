@@ -2,12 +2,12 @@
 
 Privacy Policy
 Effective date: July 25, 2019
-TradesmanIQ and 4TRailZ ("us", "we", or "our") operates the TradesmanIQ, DwellAi and 4TRailZ mobile application (hereinafter referred to as the "Service").
+TradesmanIQ, DwellAi and 4TRailZ ("us", "we", or "our") operates the TradesmanIQ, DwellAi and 4TRailZ mobile application (hereinafter referred to as the "Service").
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. The Privacy Policy for TradesmanIQ has been created with the help of TermsFeed.
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 Definitions
     • Service
-      Service is the TradesmanIQ and 4TRailZ mobile application operated by TradesmanIQ and 4TRailZ
+      Service is the TradesmanIQ, DwellAi and 4TRailZ mobile application operated by TradesmanIQ, DwellAi and 4TRailZ
     • Personal Data
       Personal Data means data about a living individual who can be identified from those data (or from those and other information either in our possession or likely to come into our possession).
     • Usage Data
@@ -22,7 +22,7 @@ While using our Service, we may ask you to provide us with certain personally id
     • Email address
     • First name and last name
     • Phone number
-    • Address, State, Province, ZIP/Postal code, City
+    • Address, State, Province, ZIP/Postal code, GPS Coordinates and data, City
     • Cookies and Usage Data 
 Usage Data
 When you access the Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use, unique device identifiers and other diagnostic data ("Usage Data").
@@ -35,7 +35,7 @@ Examples of Cookies we use:
     • Preference Cookies. We use Preference Cookies to remember your preferences and various settings. 
     • Security Cookies. We use Security Cookies for security purposes. 
 Use of Data
-TradesmanIQ and 4TRailZ uses the collected data for various purposes:
+TradesmanIQ. DwellAi and 4TRailZ uses the collected data for various purposes:
     • To provide and maintain the Service 
     • To notify you about changes to our Service 
     • To allow you to participate in interactive features of our Service when you choose to do so 
@@ -47,12 +47,12 @@ Transfer Of Data
 Your information, including Personal Data, may be transferred to - and maintained on - computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 If you are located outside Canada and choose to provide information to us, please note that we transfer the data, including Personal Data, to Canada and process it there.
 Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
-TradesmanIQ and 4TRailZ will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+TradesmanIQ, DwellAi and 4TRailZ will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
 Disclosure Of Data
 Legal Requirements
-TradesmanIQ and 4TRailZ may disclose your Personal Data in the good faith belief that such action is necessary to:
+TradesmanIQ, DwellAi and 4TRailZ may disclose your Personal Data in the good faith belief that such action is necessary to:
     • To comply with a legal obligation 
-    • To protect and defend the rights or property of TradesmanIQ 
+    • To protect and defend the rights or property of TradesmanIQ, DwellAi and 4Trailz 
     • To prevent or investigate possible wrongdoing in connection with the Service 
     • To protect the personal safety of users of the Service or the public 
     • To protect against legal liability 
@@ -75,4 +75,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, please contact us:
     • By email: zsirossm@yahoo.com 
-Privacy Policy of TradesmanIQ and 4TRailZ
+Privacy Policy of TradesmanIQ, DwellAi and 4TRailZ
